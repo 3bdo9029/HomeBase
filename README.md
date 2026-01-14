@@ -90,16 +90,8 @@ Persistent storage for:
 
 ## Rough Design Sketches
 
-> Sketches created using NinjaMock / Google Docs and embedded below.
-
-### Login / Register
-![Login Sketch](docs/login-sketch.png)
-
-### Dashboard
-![Dashboard Sketch](docs/dashboard-sketch.png)
-
-### Task Detail View
-![Task Detail Sketch](docs/task-detail-sketch.png)
+> Sketches created using ChatGpt and embedded below.
+![Detailed Sketch](docs/sketch)
 
 ---
 
